@@ -1,0 +1,36 @@
+在本地新建文件夹
+
+git add 该文件夹
+
+git commit -m "change"
+
+git pull origin master
+
+git push -u origin master
+
+
+新建一个github仓库后该干嘛
+git init
+
+git add
+
+git commit -m "first commit"
+
+git remote add origin git@github.com:Mazeqi/Machine-Learining.git
+
+git push -u origin master
+
+人工智能学习路线
+https://www.cnblogs.com/NiceCui/p/7976595.html
+
+机器学习笔记
+http://beader.me/mlnotebook/
+
+Tensorflow
+https://github.com/machinelearningmindset/TensorFlow-Course
+
+动态规划
+https://blog.csdn.net/u013309870/article/details/75193592
+
+配置vscode
+https://www.jianshu.com/p/febbf1e975b6
