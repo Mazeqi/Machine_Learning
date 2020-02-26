@@ -194,6 +194,7 @@ def selectJK(i, oS, Ei):  # this is the second choice -heurstic, and calcs Ej
     return j, Ej
 
 
+
 def updateEkK(oS, k):  # after any alpha has changed update the new value in the cache
     Ek = calcEkK(oS, k)
     oS.eCache[k] = [1, Ek]
